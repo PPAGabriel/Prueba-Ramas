@@ -15,6 +15,8 @@ public class Main {
          * AZUL
          * ROJO
          * VERDE
+         * PLATA
+         * DORADO
          * */
     }
 
